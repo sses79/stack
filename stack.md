@@ -16,11 +16,11 @@ L: *JS*, *Chrome*, *Tools*
 ####How to use Sublime Text?
 * [Open Sublime Text From cli Using subl.exe (Win)](https://scotch.io/tutorials/open-sublime-text-from-the-command-line-using-subl-exe-windows)
 * [Keyboard Shortcuts](https://scotch.io/bar-talk/sublime-text-keyboard-shortcuts)
-* package [gitgutter](https://github.com/jisaacks/GitGutter) 
-* p [material-theme](https://github.com/equinusocio/material-theme)
-* p [SidebarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
-* p [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
-* p [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
+* package [gitgutter](https://github.com/jisaacks/GitGutter), [material-theme](https://github.com/equinusocio/material-theme), [SidebarEnhancements](https://github.com/titoBouzout/SideBarEnhancements), [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile), [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
+* p [sftp](https://wbond.net/sublime_packages/sftp/settings) create/edit the `sftp-config.json` file in project folder, `Diff` this file first!
+* vidoe [Sublime Text Mastery](https://laracasts.com/series/sublime-text-mastery)
+* tips On UK keyboard `show console`will be `Ctrl+'` ***not*** <code>Ctrl+`</code>
+####How to use PHPStorm?
 
 ####How can I see what has changed in a file before committing to git?
 * `git diff` or `git diff filename`
@@ -32,3 +32,26 @@ L: *JS*, *Chrome*, *Tools*
 ####What is Model Relationships?
 * [Eloquent: Relationships](https://laravel.com/docs/5.2/eloquent-relationships)
 * [7 Laravel Packages to Supercharge your Models](http://goodheads.io/2016/04/17/7-laravel-packages-to-supercharge-your-models/)
+
+####What is Capistrano deployment script?
+* [Capistrano to Automate Deployments](https://www.digitalocean.com/community/tutorials/how-to-use-capistrano-to-automate-deployments-getting-started)
+* [Deploying with Capistrano](http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html)
+
+####How to use VMware?
+####What is manifesto for Agile Software Development?
+
+####How to use Adobe Photoshop?
+
+####How to use Adobe Illustrator?
+
+####How to use Adobe Premiere?
+
+####Who is Chad Fowler?
+book [the passionate programmer](https://www.youtube.com/watch?v=CkfjCef-iYI)
+
+####How bad are you 3 years ago? So what have you learned?
+
+####What is first level? What is next level?
+* Hardcore Linux
+* Mobile development
+* Server-side Functional programming
