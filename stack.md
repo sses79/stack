@@ -1,11 +1,11 @@
-####What is CORS?
+#### What is CORS?
 
 * Cross-Origin Resource Sharing
 * [barryvdh/laravel-cors](https://github.com/barryvdh/laravel-cors)
 
 Label:  *Laravel*, *API*
 
-####What is JWT authentication?
+#### What is JWT authentication?
 
 * JSON Web Token [tymondesigns/jwt-auth
 ](https://github.com/tymondesigns/jwt-auth)
@@ -13,13 +13,13 @@ Label:  *Laravel*, *API*
 
 L: *Laravel*, *AngularJS*
 
-####How to use DevTools Timeline?
+#### How to use DevTools Timeline?
 
 * The [DevTools Timeline](https://developers.google.com/web/updates/2015/03/devtools-timeline-now-providing-the-full-story) panel has always been the best first stop on the path to performance optimization. 
 
 L: *JS*, *Chrome*, *Tools*
 
-####How to use Sublime Text?
+#### How to use Sublime Text?
 
 * [Open Sublime Text From cli Using subl.exe (Win)](https://scotch.io/tutorials/open-sublime-text-from-the-command-line-using-subl-exe-windows)
 * [Keyboard Shortcuts](https://scotch.io/bar-talk/sublime-text-keyboard-shortcuts)
@@ -57,7 +57,7 @@ L: *JS*, *Chrome*, *Tools*
 * Why I Use Both PHPStorm and Sublime Text
 * Automatic PSR-4 Namespacing (Directories/Folders **p** package prefix)
 
-####How to use Vim?
+#### How to use Vim?
 
 * Finding Your Way Around (MacVim support `Ctrl+S` save) (iterm2 + oh-my-zsh) (~/.vimrc) (win babun cygwin oh-my-zsh) (:colorscheme Tab, :so %) (backspace)
 * Mappings and Commands (`nmap ,ev :tabedit $MYVIMRC`) (`:bd` close buffer)
@@ -81,10 +81,11 @@ L: *JS*, *Chrome*, *Tools*
 * Fun With Macros(`qq` begin macro, `Esc` then `q` stop macro, `@q` recall macro) (`"qp` get register paste) (`yiw` copy word in clip, `p` paste out, In command `Ctrl+r` paste out)
 * PHP Documentor and Ultisnips [tobyS/pdv](https://github.com/tobyS/pdv)
  [ultisnips](https://github.com/SirVer/ultisnips)(UltiSnipsEdit)
-####How can I see what has changed in a file before committing to git?
+ 
+#### How can I see what has changed in a file before committing to git?
 * `git diff` or `git diff filename`
 
-####How to be a Junior Developer?
+#### How to be a Junior Developer?
 
 * [10 TIPS FOR NEWBIES/JUNIOR DEVELOPERS](http://goodheads.io/2015/07/09/10-tips-for-newbiesjunior-developers/)
 * [The 10 Commandments of a Born again Developer](http://goodheads.io/2015/07/26/the-10-commandments-of-a-born-again-developer/)
@@ -94,81 +95,81 @@ L: *JS*, *Chrome*, *Tools*
 * [Eloquent: Relationships](https://laravel.com/docs/5.2/eloquent-relationships)
 * [7 Laravel Packages to Supercharge your Models](http://goodheads.io/2016/04/17/7-laravel-packages-to-supercharge-your-models/)
 
-####What is Capistrano deployment script?
+#### What is Capistrano deployment script?
 
 * [Capistrano to Automate Deployments](https://www.digitalocean.com/community/tutorials/how-to-use-capistrano-to-automate-deployments-getting-started)
 * [Deploying with Capistrano](http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html)
 
-####What is manifesto for Agile Software Development?
+#### What is manifesto for Agile Software Development?
 
-#####How to use Adobe Photoshop?
+#### #How to use Adobe Photoshop?
 
-#####How to use Adobe Illustrator?
+#### #How to use Adobe Illustrator?
 
-#####How to use Adobe Premiere?
+#### #How to use Adobe Premiere?
 
-####How to build a design Machine?
+#### How to build a design Machine?
 
-####Who is Chad Fowler?
+#### Who is Chad Fowler?
 
 book [the passionate programmer](https://www.youtube.com/watch?v=CkfjCef-iYI)
 
-####How bad are you 3 years ago? So what have you learned?
+#### How bad are you 3 years ago? So what have you learned?
 
-####What is first level? What is next level?
+#### What is first level? What is next level?
 
 * Hardcore Linux
 * Mobile development
 * Server-side Functional programming
 
-####What is on cn7web?
+#### What is on cn7web?
 
 * [s](http://cn7web.com/s/index.html) deploy [ssh://sses80@cn7web.com/home/sses80/repo/site.git] [bitbucket](https://bitbucket.org/learning_group/single) source
 
-####What is in mac/dev?
+#### What is in mac/dev?
 
 * [slim](http://www.slimframework.com/) a micro framework for PHP
 * [Single](https://themeforest.net/item/master-one-page-html-5-portfolio-template/10671506) One Page HTML 5 Portfolio Template
 * [PyroCMS](https://pyrocms.com/documentation)
 * [OctoberCMS]() installoctober.dev/backend/backend
 
-####How to use slack?
+#### How to use slack?
 
 * [Enabling SAML-based single sign-on](https://get.slack.help/hc/en-us/articles/203772216-Enabling-SAML-based-single-sign-on)
 * [Sign in with Slack](https://get.slack.help/hc/en-us/articles/218891278-Sign-in-with-Slack)
 * [Connecting your tools to Slack](https://get.slack.help/hc/en-us/articles/223431088-Connecting-your-tools-to-Slack)
 
-####How to use VirtualBox?
+#### How to use VirtualBox?
 
 * [Failed to open/create the internal network Vagrant on Windows10] (http://stackoverflow.com/questions/33725779/failed-to-open-create-the-internal-network-vagrant-on-windows10) after upgrade VirtualBox
 
-####How to use Vagrant?
+#### How to use Vagrant?
 
 
-####How to refresh Homestead after making changes to the Homestead.yaml
+#### How to refresh Homestead after making changes to the Homestead.yaml
 
 * I always call `vagrant global-status` to get the Id of my homestead machine, then call `vagrant provision [id]` to redo the provision-er.
 
-####How to use VMware?
+#### How to use VMware?
 
-####How to place the ~/.composer/vendor/bin directory in your PATH?
+#### How to place the ~/.composer/vendor/bin directory in your PATH?
 
 Laravel installation: [bash](http://stackoverflow.com/questions/25373188/laravel-installation-how-to-place-the-composer-vendor-bin-directory-in-your)
 [laravel storage permissions](https://laracasts.com/discuss/channels/general-discussion/laravel-framework-file-permission-security)
 
-####What is AdminLTE?
+#### What is AdminLTE?
 
 * [Control Panel Template](https://almsaeedstudio.com/)
 
-####How to use AdminLTE Control Sidebar?
+#### How to use AdminLTE Control Sidebar?
 
 * Control sidebar is the right side bar. It can be used for many purposes and is extremely easy to create. The sidebar ships with two different show/hide styles. The first allows the sidebar to slide over the content. The second pushes the content to make space for the sidebar. Either of these methods can be set through the Javascript options.
 
-####How to use AdminLTE box component?
+#### How to use AdminLTE box component?
 
 * Box The box component is the most widely used component through out this template. You can use it for anything from displaying charts to just blocks of text. It comes in many different styles that we will explore below.
 
-####How to use github?
+#### How to use github?
 
 * [Exploring a Repository](https://egghead.io/lessons/javascript-exploring-a-repository) Watch (Notify), Start (Bookmark), Fork (). Issues (), Pull requests (merge), Wiki (document), Pulse (how active), Graphs (contributors)
 * [Getting Started - First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup), [Git-Basics-Recording-Changes-to-the-Repository](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository), On github repo`t`(You’ve activated the file finder.) [global .gitignore](https://help.github.com/articles/ignoring-files/)
@@ -209,7 +210,7 @@ Laravel installation: [bash](http://stackoverflow.com/questions/25373188/laravel
 1. `git log` find commit hash `git rebase -i hash`
 2.  edit commit to combine 2 commit into 1, use `squash`
 
-####`php artisan migrate:rollback` error?
+#### `php artisan migrate:rollback` error?
 * `composer dump-autoload` the "framework" does not "know" about your new class.
 
 ```php
